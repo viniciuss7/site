@@ -1,0 +1,91 @@
+body{
+     font-family: unset;
+     background-color:#C0C0C0        ;
+     padding-left: 9px;
+
+  
+}
+
+#tudo{
+    text-align: center;
+    width: 980px;
+    margin: 0 auto;
+    text-align: left;
+    border-top: 3px solid #000;
+    border-width: 2px 5px 3px 6px;
+    border-style: dashed;
+    border-color: #000 #090 #900 #009;
+    padding: 10px;
+    border: 13px solid #000;
+}
+
+#menu {
+    width: 980px;
+    height: 53px;
+}
+#menu ul {
+    list-style-type: none;
+    text-transform: uppercase;
+}
+#menu ul li {
+    float: left;
+}
+#menu ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    width: 170px;
+    text-align: center;
+    padding: 11px 0;
+}
+#menu{
+    background-color:#B22222;
+    border-top: 6px solid #000;
+    border-bottom: : 3px solid #B22222;
+}
+#menu ul li a{
+    color: #ffffff;
+}
+#menu ul li a:hover{
+    background-color: #E0FFFF;
+    color: #B22222;
+    text-decoration: none;
+}
+
+#menu ul {
+    list-style-type: none;
+    text-transform: uppercase;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    text-indent: 10px;
+    color: #000000  ;
+    margin:0;
+}
+h2{
+    text-indent: 10px;
+    color: #000000  ;
+}
+h3{
+    text-align: justify;
+    text-indent: 10px;
+    color: #000000  ;
+}
+p{
+	text-align: justify;
+    text-indent: 20px;
+    font-size: 20px;
+    color: #000000  ;
+    margin: 0;
+}
+table{
+    border-color: #00519b;
+}
+li{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
